@@ -1,0 +1,15 @@
+C:\Users\Dell-User PC\desktop\MyC#Project\C#Switch\bin\Debug\net6.0\C#Switch.exe
+C:\Users\Dell-User PC\desktop\MyC#Project\C#Switch\bin\Debug\net6.0\C#Switch.deps.json
+C:\Users\Dell-User PC\desktop\MyC#Project\C#Switch\bin\Debug\net6.0\C#Switch.runtimeconfig.json
+C:\Users\Dell-User PC\desktop\MyC#Project\C#Switch\bin\Debug\net6.0\C#Switch.dll
+C:\Users\Dell-User PC\desktop\MyC#Project\C#Switch\bin\Debug\net6.0\C#Switch.pdb
+C:\Users\Dell-User PC\desktop\MyC#Project\C#Switch\obj\Debug\net6.0\C#Switch.csproj.AssemblyReference.cache
+C:\Users\Dell-User PC\desktop\MyC#Project\C#Switch\obj\Debug\net6.0\C#Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell-User PC\desktop\MyC#Project\C#Switch\obj\Debug\net6.0\C#Switch.AssemblyInfoInputs.cache
+C:\Users\Dell-User PC\desktop\MyC#Project\C#Switch\obj\Debug\net6.0\C#Switch.AssemblyInfo.cs
+C:\Users\Dell-User PC\desktop\MyC#Project\C#Switch\obj\Debug\net6.0\C#Switch.csproj.CoreCompileInputs.cache
+C:\Users\Dell-User PC\desktop\MyC#Project\C#Switch\obj\Debug\net6.0\C#Switch.dll
+C:\Users\Dell-User PC\desktop\MyC#Project\C#Switch\obj\Debug\net6.0\refint\C#Switch.dll
+C:\Users\Dell-User PC\desktop\MyC#Project\C#Switch\obj\Debug\net6.0\C#Switch.pdb
+C:\Users\Dell-User PC\desktop\MyC#Project\C#Switch\obj\Debug\net6.0\C#Switch.genruntimeconfig.cache
+C:\Users\Dell-User PC\desktop\MyC#Project\C#Switch\obj\Debug\net6.0\ref\C#Switch.dll
